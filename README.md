@@ -19,7 +19,7 @@ to build a weather analytics API using Flask.
 - Dask
 - Swagger
 
-# Installation Stepp
+# Installation Steps
 
 1. Create python virtual env.
 2. Run cmd : pip install -r requirement.txt
