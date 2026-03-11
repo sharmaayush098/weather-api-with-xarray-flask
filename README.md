@@ -18,3 +18,9 @@ to build a weather analytics API using Flask.
 - NetCDF
 - Dask
 - Swagger
+
+# Installation Stepp
+
+1. Create python virtual env.
+2. Run cmd : pip install -r requirement.txt
+3. python app.py
